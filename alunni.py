@@ -1,4 +1,4 @@
-scholars = [1, 2, 3, 4, 5, 6, 7, 80, 8]
+scholars = [1, 2, 3, 4, 5, 6, 7, 8000, 8]
 
 
 def max_age(list_school):
