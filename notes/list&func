@@ -1,0 +1,10 @@
+## Convezioni per le funzioni
+- bottom up scompongo in problemi minori  poi lavoro dal basso 
+- top down parto e trovo i punti dopo posso scomporre e quindi cerco di renderlo semplice  dopo
+
+- Usare gli stub: creare un mock della funzione con valori a priori giusti, una sorta di testing
+
+##Liste
+- sono mutable
+- sono tipi compositi o vettoriali
+- il numero singolo é un vettore scalare
